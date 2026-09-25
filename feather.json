@@ -6,20 +6,20 @@
       "name": "GridBox",
       "bundleIdentifier": "hu.nepster.gridbox",
       "developerName": "Nepster",
-      "iconURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.3/icon.png",
+      "iconURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.4/icon.png",
       "localizedDescription": "GridBox - F1 versenynaptar es kezdokepernyo-widget",
       "versions": [
         {
-          "version": "v1.2.3",
-          "date": "2026-09-24T20:24:04+0000",
-          "size": 9216240,
-          "downloadURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.3/gridbox.ipa"
+          "version": "v1.2.4",
+          "date": "2026-09-25T19:50:13+0000",
+          "size": 9216217,
+          "downloadURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.4/gridbox.ipa"
         }
       ],
-      "size": 9216240,
-      "version": "v1.2.3",
-      "versionDate": "2026-09-24T20:24:04+0000",
-      "downloadURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.3/gridbox.ipa"
+      "size": 9216217,
+      "version": "v1.2.4",
+      "versionDate": "2026-09-25T19:50:13+0000",
+      "downloadURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.4/gridbox.ipa"
     }
   ]
 }
