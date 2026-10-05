@@ -1,25 +1,25 @@
 {
-  "name": "GridBox",
-  "identifier": "hu.nepster.gridbox",
+  "name": "gridslot",
+  "identifier": "hu.nepster.gridslot",
   "apps": [
     {
-      "name": "GridBox",
-      "bundleIdentifier": "hu.nepster.gridbox",
+      "name": "gridslot",
+      "bundleIdentifier": "hu.nepster.gridslot",
       "developerName": "Nepster",
-      "iconURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.8/icon.png",
-      "localizedDescription": "GridBox - F1 versenynaptar es kezdokepernyo-widget",
+      "iconURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.2.9/icon.png",
+      "localizedDescription": "gridslot - F1 versenynaptar es kezdokepernyo-widget",
       "versions": [
         {
-          "version": "v1.2.8",
-          "date": "2026-10-04T18:24:03+0000",
-          "size": 9532007,
-          "downloadURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.8/gridbox.ipa"
+          "version": "v1.2.9",
+          "date": "2026-10-05T20:46:41+0000",
+          "size": 12002560,
+          "downloadURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.2.9/gridslot.ipa"
         }
       ],
-      "size": 9532007,
-      "version": "v1.2.8",
-      "versionDate": "2026-10-04T18:24:03+0000",
-      "downloadURL": "https://github.com/Nepsterwasd/GridBox-Releases/releases/download/v1.2.8/gridbox.ipa"
+      "size": 12002560,
+      "version": "v1.2.9",
+      "versionDate": "2026-10-05T20:46:41+0000",
+      "downloadURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.2.9/gridslot.ipa"
     }
   ]
 }
